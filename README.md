@@ -1,5 +1,7 @@
 # aws-eks-cli
-A simple client for EKS. Contains aws-cli and K9s
+A simple client for EKS. Contains aws-cli and K9s.
+
+Big thanks to [xueshanf/awscli](https://hub.docker.com/r/xueshanf/awscli) for building AWS Client
 
 # Getting Started
 Run image in interactive mode:
